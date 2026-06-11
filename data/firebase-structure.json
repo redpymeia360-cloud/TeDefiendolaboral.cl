@@ -1,0 +1,31 @@
+{
+  "tdl_leads": {
+    "{id}": {
+      "createdAt": "ISO_DATE",
+      "nombre": "",
+      "apellido": "",
+      "telefono": "",
+      "correo": "",
+      "tipoCliente": "",
+      "servicio": "",
+      "comentario": ""
+    }
+  },
+  "tdl_networking": {
+    "{id}": {
+      "createdAt": "ISO_DATE",
+      "nombre": "",
+      "apellido": "",
+      "correo": "",
+      "telefono": "",
+      "profesion": "",
+      "participacion": ""
+    }
+  },
+  "tdl_newsletter": {
+    "{id}": {"createdAt": "ISO_DATE", "correo": "", "interes": ""}
+  },
+  "tdl_questions": {
+    "{id}": {"createdAt": "ISO_DATE", "nombre": "", "correo": "", "pregunta": "", "respuesta": ""}
+  }
+}
